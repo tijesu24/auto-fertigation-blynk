@@ -1,0 +1,7 @@
+{
+    "sketch": "sensors.ino",
+    "board": "arduino:avr:mega",
+    "port": "COM4",
+    "programmer": "arduino:avrispmkii",
+    "configuration": "cpu=atmega2560"
+}
